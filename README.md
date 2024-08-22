@@ -9,32 +9,6 @@ Password Regeneration: Easily regenerate a saved password with the same or updat
 Persistent Storage: Passwords are saved to a file in your home directory, ensuring consistency across application launches.
 Manual File Saving: Save all passwords to a new file at any time, similar to saving in a different slot in a video game.
 User-Friendly Interface: Simple and intuitive interface built with Tkinter, featuring tabbed navigation for generating and managing passwords.
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/password-manager.git
-cd password-manager
-Install dependencies:
-Ensure you have Python installed. Then, install the necessary dependencies using pip:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python main.py
-Packaging as an executable (optional):
-If you want to package the application as an executable using PyInstaller:
-
-bash
-Copy code
-pyinstaller --onefile --windowed main.py
-Usage
-First Launch:
 
 Upon launching the application for the first time, you will be prompted to select a file location where your passwords will be saved. This location will be remembered for future sessions.
 The default save location is within the PasswordManager directory in your home directory.
