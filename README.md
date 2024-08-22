@@ -1,4 +1,5 @@
-Password Manager
+Super Password
+
 A user-friendly password management application built with Python and Tkinter. This application allows you to generate, save, and manage passwords securely. It is designed to be simple yet powerful, ensuring that your passwords are always stored in a safe and accessible location.
 
 Features
